@@ -7,10 +7,6 @@ By default AlgorandWalletSelect Library supports injected providers like (AlgoSi
 
 ## Projects using AlgorandWalletSelect
 
-Open a PR to add your project to the list!
-
-- [xBacked DAO](https://xbacked.io/)
-
 ## Usage
 
 1. Install the AlgorandWalletSelect NPM package
