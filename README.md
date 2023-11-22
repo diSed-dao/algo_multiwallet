@@ -3,9 +3,7 @@ A single Web3 / Algorand provider solution for all Wallets.
 
 ## Introduction
 
-AlgorandWalletSelect is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configuration.
-
-By default AlgorandWalletSelect Library supports injected providers like (AlgoSigner, MyAlgoWallet, etc) and WalletConnect (OfficialAlgorandWallet, etc). You can also easily configure the library to support more wallets.
+By default AlgorandWalletSelect Library supports injected providers like (AlgoSigner, MyAlgoWallet, etc) and WalletConnect (OfficialAlgorandWallet, etc). 
 
 ## Projects using AlgorandWalletSelect
 
