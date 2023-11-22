@@ -33,7 +33,7 @@ const returnWallet = async (data) => {
 const Template = (args) => (
   <div>
     <h1 className="ws-text-lg">Algorand Wallet Selector</h1>
-    <p>Built with 💚 by xBacked</p>
+    <p>Built with 💚 by diSed</p>
     <WalletSelector returnWallet={returnWallet} />
   </div>
 );
@@ -46,7 +46,7 @@ Simply do the following to only display the MyAlgo wallet. Valid `wallets` are `
 const Template = (args) => (
   <div>
     <h1 className="ws-text-lg">Algorand Wallet Selector</h1>
-    <p>Built with 💚 by xBacked</p>
+    <p>Built with 💚 by diSed</p>
     <WalletSelector
       returnWallet={returnWallet}
       wallets=["myalgowallet"]
