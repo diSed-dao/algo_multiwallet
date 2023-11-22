@@ -1,7 +1,4 @@
 # Algorand Wallet Select
-
-![](./assets/wallet-selector-demo.gif)
-
 A single Web3 / Algorand provider solution for all Wallets.
 
 ## Introduction
