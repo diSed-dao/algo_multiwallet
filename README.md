@@ -17,7 +17,7 @@ npm install --save @xbacked-dao/algorand-wallet-select
 yarn add @xbacked-dao/algorand-wallet-select
 ```
 
-2. Add algorand-wallet-select to your Dapp as follows
+2. Adding algorand-wallet-select to our Dapp as follows
 
 ```javascript
 import { WalletSelector } from "algorand-wallet-select";
