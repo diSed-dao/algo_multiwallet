@@ -1,6 +1,8 @@
 # Algorand Wallet Select
 A single Web3 / Algorand provider solution for all Wallets.
 
+Web3/Algorand provider solution redefines the user experience by unifying the fragmented landscape of wallet interactions, creating a more cohesive and interconnected environment for users to seamlessly engage with the decentralized web and the Algorand blockchain.
+
 ## Introduction
 
 By default AlgorandWalletSelect Library supports injected providers like (AlgoSigner, MyAlgoWallet, etc) and WalletConnect (OfficialAlgorandWallet, etc). 
